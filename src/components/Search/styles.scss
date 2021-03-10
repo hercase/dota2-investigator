@@ -1,0 +1,17 @@
+@import "../../sass/main.scss";
+
+.search {
+
+
+  &__header{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center
+  }
+
+  &__accountid {
+    font-size: .8rem;
+    color: $secondary;
+  }
+}
